@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">project</string>
+    <string name="app_name">Search Github Users</string>
     <string name="app_msg_close">Press Back button again to exit</string>
 
     <!--User-->
